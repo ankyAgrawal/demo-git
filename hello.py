@@ -5,13 +5,6 @@ def broadcast_hello_to_entire_class():
     for student in range(1, 31):  # Assuming a class of 30 students
         print(f"Hello, Student {student}!")
 
-def random_function_1():
-    pass
-
-def random_function_2():
-    pass
-def random_function_3():
-    pass
 
 
 
