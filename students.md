@@ -3,4 +3,4 @@
 
 ### List of contributors
 - Ankit Agrawal - I have taught both drones and students how not to crash.
-- Jake Boudns - I am in your class.
+- Jake Bounds - I am in your class.
