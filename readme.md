@@ -27,6 +27,3 @@ This project is created to demonstrate various git functionalities including bra
 
     ```
 
-
-## Contributing
-Feel free to fork the repository and submit pull requests. Please ensure your code follows the existing style and includes appropriate tests.
