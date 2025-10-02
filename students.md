@@ -3,4 +3,7 @@
 
 ### List of contributors
 - Ankit Agrawal - I have taught both drones and students how not to crash.
+- Lola Jones
+
+
 - Hailey Gonzalez - I love to bake.
