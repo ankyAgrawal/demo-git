@@ -3,3 +3,4 @@
 
 ### List of contributors
 - Ankit Agrawal - I have taught both drones and students how not to crash.
+- Sebastian Froning - I like hooping and CTFs.
