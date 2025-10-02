@@ -4,3 +4,4 @@
 ### List of contributors
 - Ankit Agrawal - I have taught both drones and students how not to crash.
 - Lola Jones 
+- Yeeon Ryu - I have a twin sister who also goest to SLU.
