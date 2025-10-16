@@ -1,4 +1,4 @@
-## Contriutors of this sample open source project!!! 
+## Contributors of this sample open source project!!! 
 
 
 ### List of contributors
@@ -7,3 +7,7 @@
 
 
 - Hailey Gonzalez - I love to bake.
+- John Doan - I played the Frisbee team sport in high school.
+- Nayira Nwikpuinee - i love music
+- Lola Jones 
+- Yeeon Ryu - I have a twin sister who also goest to SLU.
