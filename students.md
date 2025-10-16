@@ -4,6 +4,9 @@
 ### List of contributors
 - Ankit Agrawal - I have taught both drones and students how not to crash.
 - Lola Jones
+
+
+- Hailey Gonzalez - I love to bake.
 - John Doan - I played the Frisbee team sport in high school.
 - Nayira Nwikpuinee - i love music
 - Lola Jones 
